@@ -1,1 +1,1 @@
-<h1>Hi, I'm Bryon! <br/><a href="https://github.com/bry-lab">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Bryon! </h1>
